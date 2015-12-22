@@ -1,2 +1,2 @@
 # next-poc
-POC for NEXT Project
+POC for NEXT Project created and updated thu. web by Kenzo
